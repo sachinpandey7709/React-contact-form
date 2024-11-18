@@ -65,6 +65,7 @@ return (
         placeholder="Your Email"
         name="email"
         required
+        title="Please enter a valid email"
         />
         <input
         type="text"
