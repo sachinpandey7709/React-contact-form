@@ -50,7 +50,7 @@ const onSubmit = async (event) => {
 
 return (
     <div className="container">
-    <h2>Get in Touch With Sachin Kumar Pandey</h2>
+    <h2>Get in Touch With Santosh Kumar Pandey</h2>
     <form onSubmit={onSubmit}>
         <input
         type="text"
